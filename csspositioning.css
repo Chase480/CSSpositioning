@@ -1,0 +1,23 @@
+h1 {
+    margin-top: 200px;
+    padding: 20px;
+    top: 0%;
+    background-color: crimson;
+    text-align: center;
+}
+
+.fixed {
+    position: fixed;
+    border: 10px;
+    top: 0%;
+    left:0%;
+    padding: 50px;
+    margin:  30px;
+    background-color: dimgrey;
+}
+
+.relative {
+    position: relative;
+    padding: 70px;
+    
+}
